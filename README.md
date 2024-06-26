@@ -14,5 +14,5 @@ ConscienceAI aims to create an AI tool that learns from user interactions and mi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ConscienceAI.git
+   git clone https://github.com/rahepler/ConscienceAI.git
    cd ConscienceAI
