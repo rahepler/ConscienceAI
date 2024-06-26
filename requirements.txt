@@ -1,0 +1,12 @@
+pandas
+numpy
+tensorflow
+torch
+transformers
+pyaudio
+flask
+electron
+SpeechRecognition
+pyttsx3
+requests
+scikit-learn
